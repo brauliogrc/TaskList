@@ -1,6 +1,6 @@
 # Notas:
 Aplicacion realizada con Node y JS.
-implementado los paquetes Inquirer y Colors.
+implementado los paquetes Inquirer, Colors y uuidv4
 
 La aplicación se encarga de realizar el seguimiento de las tareas ingresadas.
 las tareas son almacenadas en un archivo Json utilizado como base de datos para que las taeas sean persistentes.
